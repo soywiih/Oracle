@@ -1,2 +1,18 @@
 # oracle
 ## 第1步：以system登录到pdborcl，创建角色con_res_view和用户new_user，并授权和分配空间：
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/1.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/3.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/4.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/5.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/6.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-1.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-2.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-3.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-4.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-5.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/2-6.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/7.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/8.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/9.png) 
+![ABC](https://github.com/soywiih/oracle/blob/master/test2/10.png) 
